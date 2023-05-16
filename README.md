@@ -9,6 +9,7 @@
 
 <h4 align = "center">^Salah satu Contoh <span color="red">Customized</span> Bio ^</h4>
 
+<h1>Discontinued Due To this feature got Patched</h1>
 ---
 
 
